@@ -1,0 +1,15 @@
+Url:
+- Planit::http://jupiter.cloud.planittesting.com
+
+BrowserInfo:
+- BrowserDriver::Chrome
+
+Contacts:
+  - ForeName::Test
+  - Surname::Surname
+  - Email::test@xyz.com
+  - Message::This is a test
+QTY:
+  - STUFF_FROG::2
+  - FLUFFY_BUNNY::5
+  - VALENTINE_BEAR::3
